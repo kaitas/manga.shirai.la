@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp/wp-admin/
 Allow: /wp/wp-admin/admin-ajax.php
 
-Sitemap: https://manga.style/sitemap.xml
+Sitemap: https://manga.shirai.la/sitemap.xml
